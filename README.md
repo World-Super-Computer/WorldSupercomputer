@@ -1,12 +1,12 @@
-# World Super Computer
+# World Supercomputer
 
 `- Unstoppable - Permissionless - Scalable -`
 
-The World Super Computer provides decentralized Artificial Intelligence (dAI) for every individual - the Unstoppable Internet Brain.
+The World Supercomputer provides decentralized Artificial Intelligence (dAI) for every individual - the Unstoppable Internet Brain.
 
-Drawing from the decentralization and security of Bitcoin and Ethereum, the World Super Computer offers open access to internet-scale computational power and storage capacity for all.
+Drawing from the decentralization and security of Bitcoin and Ethereum, the World Supercomputer offers open access to internet-scale computational power and storage capacity for all.
 
-World Super Computer achieves dAI by entangling three topologically-different peer-to-peer networks for consensus, computation, and storage, with Zero-knowledge proof as databus.
+World Supercomputer achieves dAI by entangling three topologically-different peer-to-peer networks for consensus, computation, and storage, with Zero-knowledge proof as databus.
 
 ## Networks
 
