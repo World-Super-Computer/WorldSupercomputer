@@ -2,6 +2,8 @@
 
 `- Unstoppable - Permissionless - Scalable -`
 
+[World Supercomputer Summit 2023 Recap](https://hackmd.io/@EEEZ5333/World-Supercomputer-Summit-2023-Recap)
+
 The World Supercomputer provides decentralized Artificial Intelligence (dAI) for every individual - the Unstoppable Internet Brain.
 
 Drawing from the decentralization and security of Bitcoin and Ethereum, the World Supercomputer offers open access to internet-scale computational power and storage capacity for all.
